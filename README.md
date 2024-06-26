@@ -1,5 +1,9 @@
 # visual-novel-practice
 
+ビジュアルノベルのシステムを実装する練習です。  
+Unityで作りました。  
+製作期間: 1週間
+
 ### セットアップ方法  
 
 1. [Releases](https://github.com/shiki-saiki/visual-novel-practice/releases) から visual_novel_practice.unitypackage をダウンロード
