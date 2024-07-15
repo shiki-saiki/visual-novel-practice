@@ -10,6 +10,6 @@ Unityで作りました。
 2. Unity Hub で プロジェクト（2D Built-In RP）を作成
 3. ダウンロードしたパッケージをインポート
 4. Build Settings の Scenes In Build に Assets > Scenes フォルダ内の Title と Main を追加
-6. Assets > Scenes > Title を選択
-5. TextMesh Pro をインポート
+5. Assets > Scenes > Title を選択
+6. TextMesh Pro をインポート
 7. シーンをプレイ
