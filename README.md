@@ -4,6 +4,8 @@
 Unityで作りました。  
 製作期間: 1週間
 
+お借りした素材: [credit.txt](/credit.txt)
+
 ### セットアップ方法  
 
 1. [Releases](https://github.com/shiki-saiki/visual-novel-practice/releases) から visual_novel_practice.unitypackage をダウンロード
@@ -13,3 +15,5 @@ Unityで作りました。
 5. Assets > Scenes > Title を選択
 6. TextMesh Pro をインポート
 7. シーンをプレイ
+
+!["プレイ画面"](/visual-novel-practice.png)
